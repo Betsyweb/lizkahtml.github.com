@@ -1,3 +1,3 @@
 # animation
 
-DEMO: https://lizkahtml.github.io/
+<a href="https://lizkahtml.github.io/" target="_blank">DEMO</a>
